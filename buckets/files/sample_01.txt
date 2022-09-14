@@ -1,0 +1,1 @@
+Exemplo de como subir arquivos no bucket do looqbox usando python
